@@ -1,0 +1,11 @@
+[NX Daemon Server] - 2024-09-27T05:16:18.967Z - Started listening on: \\.\pipe\nx\C:\Users\admin\AppData\Local\Temp\ae59efac8fd0bc01f668\d.sock
+[NX Daemon Server] - 2024-09-27T05:16:18.971Z - [WATCHER]: Subscribed to changes within: C:\@Bacancy_Projects\Angular_Projects\NxWorkspace\BacancyAngularStandalone (native)
+[NX Daemon Server] - 2024-09-27T05:16:18.982Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-27T05:16:18.985Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-27T05:16:18.985Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-27T05:16:18.988Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-27T05:16:18.989Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-27T05:16:18.990Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-09-27T05:16:18.990Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-27T05:16:18.991Z - [WATCHER]: Stopping the watcher for C:\@Bacancy_Projects\Angular_Projects\NxWorkspace\BacancyAngularStandalone (sources)
+[NX Daemon Server] - 2024-09-27T05:16:18.991Z - [WATCHER]: Stopping the watcher for C:\@Bacancy_Projects\Angular_Projects\NxWorkspace\BacancyAngularStandalone (outputs)

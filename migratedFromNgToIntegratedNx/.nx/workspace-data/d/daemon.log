@@ -1,0 +1,43 @@
+[NX Daemon Server] - 2024-09-27T07:22:46.572Z - Started listening on: \\.\pipe\nx\C:\Users\admin\AppData\Local\Temp\a9e5e3a03d8d07ddf0c2\d.sock
+[NX Daemon Server] - 2024-09-27T07:22:46.576Z - [WATCHER]: Subscribed to changes within: C:\@Bacancy_Projects\Angular_Projects\NxWorkspace\migratedFromNgToIntegratedNx (native)
+[NX Daemon Server] - 2024-09-27T07:22:46.579Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-27T07:22:46.580Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-27T07:22:46.582Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-27T07:22:46.583Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-09-27T07:22:46.858Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-09-27T07:22:46.858Z - [REQUEST]: 
+[NX Daemon Server] - 2024-09-27T07:22:46.858Z - [REQUEST]: 
+[NX Daemon Server] - 2024-09-27T07:22:46.865Z - Time taken for 'loadNxPlugins' 267.36310000000003ms
+[NX Daemon Server] - 2024-09-27T07:22:46.900Z - Time taken for 'build-project-configs' 19.263999999999896ms
+[NX Daemon Server] - 2024-09-27T07:22:46.943Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-09-27T07:22:46.944Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-09-27T07:22:46.945Z - Time taken for 'total for creating and serializing project graph' 360.78279999999995ms
+[NX Daemon Server] - 2024-09-27T07:22:46.947Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-09-27T07:22:46.947Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 361. Response time: 3.
+[NX Daemon Server] - 2024-09-27T07:22:58.118Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-09-27T07:22:58.118Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-09-27T07:22:58.119Z - Time taken for 'total for creating and serializing project graph' 0.4771999999993568ms
+[NX Daemon Server] - 2024-09-27T07:22:58.119Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-09-27T07:22:58.119Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-27T07:22:58.175Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-09-27T07:22:58.176Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-09-27T07:22:58.177Z - Time taken for 'total for creating and serializing project graph' 0.4658999999992375ms
+[NX Daemon Server] - 2024-09-27T07:22:58.177Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-09-27T07:22:58.177Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-09-27T07:23:11.861Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-27T07:25:16.081Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-09-27T07:25:16.083Z - [WATCHER]: .git was deleted
+[NX Daemon Server] - 2024-09-27T07:25:16.185Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-09-27T07:25:16.185Z - [REQUEST]: 
+[NX Daemon Server] - 2024-09-27T07:25:16.185Z - [REQUEST]: .git
+[NX Daemon Server] - 2024-09-27T07:25:16.189Z - Time taken for 'hash changed files from watcher' 0.25219999998807907ms
+[NX Daemon Server] - 2024-09-27T07:25:16.211Z - Time taken for 'build-project-configs' 18.17389999999432ms
+[NX Daemon Server] - 2024-09-27T07:25:16.248Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2024-09-27T07:25:16.248Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2024-09-27T07:25:16.249Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2024-09-27T07:25:16.249Z - Time taken for 'total execution time for createProjectGraph()' 27.223999999987427ms
+[NX Daemon Server] - 2024-09-27T07:25:18.164Z - [WATCHER]: .gitignore was deleted
+[NX Daemon Server] - 2024-09-27T07:25:18.165Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-09-27T07:25:18.165Z - [WATCHER]: Stopping the watcher for C:\@Bacancy_Projects\Angular_Projects\NxWorkspace\migratedFromNgToIntegratedNx (sources)
+[NX Daemon Server] - 2024-09-27T07:25:18.165Z - [WATCHER]: Stopping the watcher for C:\@Bacancy_Projects\Angular_Projects\NxWorkspace\migratedFromNgToIntegratedNx (outputs)
+[NX Daemon Server] - 2024-09-27T07:25:18.166Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
